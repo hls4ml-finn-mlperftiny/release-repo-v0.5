@@ -1,0 +1,12 @@
+[submodule "code/ad/AnomalyDetection"]
+	path = code/ad/AnomalyDetection
+	url = https://github.com/test-tinyMLPerf/AnomalyDetection.git
+	branch = release
+[submodule "code/ic/CIFAR10"]
+	path = code/ic/CIFAR10
+	url = https://github.com/test-tinyMLPerf/CIFAR10.git
+	branch = release
+[submodule "code/kws/KeywordSpotting"]
+	path = code/kws/KeywordSpotting
+	url = https://github.com/test-tinyMLPerf/KeywordSpotting.git
+	branch = release
